@@ -77,10 +77,11 @@ body {
     }
 
     50% {
-        transform: rotateX(-22deg) rotateY(-238deg) rotateZ(0deg);
+        transform: rotateX(-22deg) rotateY(-218deg) rotateZ(0deg);
     }
 
     100% {
-        transform: rotateX(-22deg) rotateY(-400deg) rotateZ(0deg);
+        transform: rotateX(-22deg) rotateY(-398deg) rotateZ(0deg);
     }
+
 }
